@@ -11,5 +11,5 @@ Remember that the current homepage isn't final and will be changed upon future r
 
 # Commands
 
-Updated commands will always be in the script
+Updated commands will always be in the script!
 ![obrázok](https://github.com/JesterTheMan/SiteStuff/assets/146450864/8f8f543d-781c-49be-b16a-0f3b0b5b6b0a)
