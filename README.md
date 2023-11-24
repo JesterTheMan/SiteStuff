@@ -2,7 +2,7 @@
 
 # Description
 
-Simple python script that acts as a multitool with commands on every command page you visit!
+Simple python script that acts as a multitool with a command input on every command page you visit!
 
 # Overview
 
