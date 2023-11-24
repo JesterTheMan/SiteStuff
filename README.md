@@ -7,4 +7,4 @@ Simple python script that acts as a multitool with commands on every command pag
 # Overview
 
 Remember that the current homepage isn't final and will be changed upon future releases!
-![Untitled](https://github.com/JesterTheMan/SiteStuff/assets/146450864/0e8719c4-a9d1-400f-987b-151fb35cc7c5)
+![obrázok](https://github.com/JesterTheMan/SiteStuff/assets/146450864/a2f86862-39c8-4437-a60e-39036e2fd299)
